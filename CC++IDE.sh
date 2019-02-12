@@ -8,7 +8,7 @@
 # Description      : 
 # Opis		   :
 # The script will be an environment for writing programs in C and C ++. He will let it
-# set the compilation option, execute it and help the programmer to write the code
+# set the compilationf option, execute it and help the programmer to write the code
 # program.
 # Licensed under GPL (see /usr/share/common-licenses/GPL for more details
 # or contact # the Free Software Foundation for a copy)
